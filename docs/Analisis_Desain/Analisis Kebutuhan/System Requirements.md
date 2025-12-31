@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### 3.3 System Requirements (SYR)
 
 System Requirements merinci spesifikasi teknis perangkat keras dan perangkat lunak yang diperlukan untuk mengembangkan, menjalankan, dan mengelola aplikasi E-Service.

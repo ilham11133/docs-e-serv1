@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 ### 3.2 Stakeholder Requirements (STR)
 
 Bagian ini mengidentifikasi profil dan kebutuhan dari berbagai pihak yang berkepentingan dalam pengembangan dan penggunaan sistem E-Service.
