@@ -1,8 +1,8 @@
 ### Penjelasan Mendalam Physical Database Design
 
-![1](1.png)
-![2](2.png)
-![3](Design.png)
+![1](./img/1.png)
+![2](./img/2.png)
+![3](./img/Design.png)
 
 Dokumentasi ini menjelaskan implementasi fisik dari database `eservice_db` berdasarkan skrip SQL yang telah dieksekusi dan skema relasional yang dihasilkan.
 

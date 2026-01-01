@@ -1,6 +1,6 @@
 ###  Deskripsi Relasi Entitas (ERD)
 
-![ERD](ERD%20diagram.png)
+![ERD](./img/ERD%20diagram.png)
 
 ERD di atas menggambarkan bagaimana data mengalir dan saling terikat di dalam database MySQL sistem E-Service:
 

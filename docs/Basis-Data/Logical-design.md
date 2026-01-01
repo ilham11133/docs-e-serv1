@@ -1,6 +1,6 @@
 
 
-![Logical](Logical%20Design.png)
+![Logical](./img/Logical%20Design.png)
 
 #  Logical Database Design - Sistem Informasi E-Service
 
