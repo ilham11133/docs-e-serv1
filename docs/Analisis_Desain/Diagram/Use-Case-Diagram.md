@@ -1,7 +1,3 @@
-## Diagram Use Case
-
-![Diagram](./)
-
 ### Penjelasan Mendalam Use Case Utama
 
 Setiap *Use Case* di bawah ini dirancang untuk memastikan integritas data pada basis data MySQL dan efisiensi alur kerja operasional antara Admin dan Teknisi.
