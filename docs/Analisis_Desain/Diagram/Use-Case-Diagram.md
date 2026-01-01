@@ -1,4 +1,5 @@
 ### Penjelasan Mendalam Use Case Utama
+![Diagram](/img/Usecase-diagram.png)
 
 Setiap *Use Case* di bawah ini dirancang untuk memastikan integritas data pada basis data MySQL dan efisiensi alur kerja operasional antara Admin dan Teknisi.
 
