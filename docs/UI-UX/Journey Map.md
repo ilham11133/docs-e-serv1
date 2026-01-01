@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # User Journey Map (Alur Penggunaan Sistem)
 
 Alur ini menggambarkan langkah-demi-langkah interaksi persona dengan database dari awal hingga pelaporan akhir.
