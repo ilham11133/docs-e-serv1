@@ -43,6 +43,7 @@
 ![10](Contoh%2010.png)
 
 **11. Tampilkan Hasil Join Laporan (Laporan 1 & Laporan 2)**
+
 Alasan kenapa saya memiliki 2 laporan dikarenaka saya menambah  Data Transaksi Baru (Untuk Februari 2026) menambahkan Inputan Laporan Kedua (Tabel monthly_reports)
 
 ![11](Contoh%2011.png)
