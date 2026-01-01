@@ -2,7 +2,7 @@
 
 ![1](1.png)
 ![2](2.png)
-![3](2.png)
+![3](Design.png)
 
 Dokumentasi ini menjelaskan implementasi fisik dari database `eservice_db` berdasarkan skrip SQL yang telah dieksekusi dan skema relasional yang dihasilkan.
 
