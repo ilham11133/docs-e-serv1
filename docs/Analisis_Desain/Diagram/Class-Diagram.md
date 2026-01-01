@@ -1,6 +1,6 @@
 ###  Deskripsi Class Diagram
 
-![Class](Usecase-diagram.png)
+![Class]()
 
 Class diagram menggambarkan struktur sistem dari sisi objek, atribut, dan fungsi yang tersedia. Berikut adalah rincian kelas-kelas utama dalam E-Service:
 
