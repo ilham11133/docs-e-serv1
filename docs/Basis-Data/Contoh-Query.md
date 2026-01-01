@@ -26,3 +26,23 @@
 ![6](Contoh%206.png)
 
 **7. Update Data: Memberikan Tugas kepada Teknisi (CRUD Update)**
+
+![7](contoh%207.png)
+
+### C. Query Join dan Agregasi Laporan
+**8. Query Join: Melihat Detail Transaksi Lengkap**
+
+![8](Contoh%208.png)
+
+**9. Query Agregasi: Menghitung Total Pendapatan per Teknisi**
+
+![9](Contoh%209.png)
+
+**10. Input Data Laporan Bulanan (Tabel `monthly_reports`)**
+
+![10](Contoh%2010.png)
+
+**11. Tampilkan Hasil Join Laporan (Laporan 1 & Laporan 2)**
+Alasan kenapa saya memiliki 2 laporan dikarenaka saya menambah  Data Transaksi Baru (Untuk Februari 2026) menambahkan Inputan Laporan Kedua (Tabel monthly_reports)
+
+![11](Contoh%2011.png)
