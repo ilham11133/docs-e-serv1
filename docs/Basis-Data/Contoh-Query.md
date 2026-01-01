@@ -25,4 +25,4 @@
 
 ![6](Contoh%206.png)
 
-****
+**7. Update Data: Memberikan Tugas kepada Teknisi (CRUD Update)**
