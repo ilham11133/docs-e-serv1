@@ -1,11 +1,14 @@
 ### Wireframe
 
-### Admin
 
-! [](./images/a1.png)
-! [](./images/a2.png)
-! [](./images/a3.png)
-! [](./images/a4.png)
+
+! [login](./images/a1.png)
+
+! [admin](./images/a2.png)
+
+! [admn](./images/a3.png)
+
+! [admin](./images/a4.png)
 
 
 
