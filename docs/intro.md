@@ -7,7 +7,7 @@ sidebar_position: 1
 ### 1.1 Profil Mahasiswa
 * **Nama**: [M ilham Bintang Sahputra]
 * **NIM**: [2405010036]
-* **Kelas**: [Praktik Analisis dan Desain Perangkat Lunak,Perancangan Antarmuka Pengguna,Basis Data]
+* **Kelas**: [SEM-3]
 
 ---
 
