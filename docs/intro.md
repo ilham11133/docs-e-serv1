@@ -5,9 +5,9 @@ sidebar_position: 1
 ## 1. Pendahuluan
 
 ### 1.1 Profil Mahasiswa
-* **Nama**: [Isi Nama Kamu]
-* **NIM**: [Isi NIM Kamu]
-* **Kelas**: [Isi Kelas Kamu]
+* **Nama**: [M ilham Bintang Sahputra]
+* **NIM**: [2405010036]
+* **Kelas**: [Praktik Analisis dan Desain Perangkat Lunak,Perancangan Antarmuka Pengguna,Basis Data]
 
 ---
 
