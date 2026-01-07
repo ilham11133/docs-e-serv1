@@ -19,7 +19,7 @@ export default function Home() {
         {/* Kontainer Logo */}
         <div style={{ marginBottom: '20px' }}>
           <img 
-            src="img/logo.png" 
+            src="img/Logo.jpeg" 
             alt="Logo" 
             style={{ 
               width: '150px', 
