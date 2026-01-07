@@ -2,46 +2,19 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+## 1. Pendahuluan
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### 1.1 Profil Mahasiswa
+* **Nama**: [Isi Nama Kamu]
+* **NIM**: [Isi NIM Kamu]
+* **Kelas**: [Isi Kelas Kamu]
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+### 1.2 Ringkasan Fokus & Kontribusi Proyek
+Meskipun proyek ini merupakan proyek individu, pengembangan sistem **E-Service** ini difokuskan pada penguatan logika alur kerja dan manajemen data. Area utama yang menjadi penekanan dalam proyek ini meliputi:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+* **Perancangan Arsitektur Alur Kerja (User Flow)**: Menitikberatkan pada pemisahan hak akses (*role-based*) yang ketat antara Admin dan Teknisi untuk menjaga keamanan data finansial dan operasional.
+* **Logika Manajemen Data (Backend Architecture)**: Merancang struktur database yang mendukung fungsi CRUD, sistem autentikasi (Session & Cookies), serta relasi data antar tabel untuk kebutuhan pelaporan.
+* **Visualisasi Informasi (Reporting System)**: Berfokus pada konsep transformasi data transaksi menjadi informasi grafis pada fitur *Monthly Report* guna membantu pengambilan keputusan manajerial.
+* **Desain Pengalaman Pengguna (UX Design)**: Memastikan antarmuka halaman inti (Home, Job Detail, dan Registration) memiliki susunan elemen yang logis dan konsisten sesuai dengan kebutuhan pengguna di lapangan maupun di kantor.
