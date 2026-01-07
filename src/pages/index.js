@@ -1,40 +1,42 @@
 import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Doc
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+    // Menambahkan noFooter agar tampilan benar-benar polos hitam sampai bawah
+    <Layout title={`Hello from ${siteConfig.title}`} noFooter={true}>
+      <main style={{
+        backgroundColor: '#000000',
+        minHeight: '100vh', // Menggunakan minHeight agar hitam penuh
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+        color: 'white',
+        padding: '2rem'
+      }}>
+        {/* Logo - Pastikan file logo ada di static/img/logo.png */}
+        <img 
+          src="img/logo.png" 
+          alt="Logo" 
+          style={{ 
+            width: '120px', 
+            marginBottom: '1rem',
+            filter: 'brightness(0) invert(1)' // Memastikan logo putih jika aslinya hitam
+          }} 
+        />
+        
+        <h1 style={{ 
+          fontSize: 'clamp(2rem, 8vw, 4rem)', 
+          fontWeight: '800', 
+          letterSpacing: '0.2em',
+          textTransform: 'uppercase',
+          margin: 0
+        }}>
+          DOCUMENTATION
+        </h1>
       </main>
     </Layout>
   );
