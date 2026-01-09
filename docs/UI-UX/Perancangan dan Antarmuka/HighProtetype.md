@@ -14,6 +14,10 @@
 ![notif](./images/notif1.png)
 ![profile](./images/p1.png)
 
-
+![admin](./images/d1.png)
+![admin](./images/d2.png)
+![admin](./images/d3.png)
+![admin](./images/d4.png)
+![admin](./images/d5.png)
 
 [Klik di sini untuk melihat Desain Figma](https://www.figma.com/design/7TFsRbAoY62E2NfMy5uCl7/Untitled?node-id=0-1&p=f&t=mcowmnCfJDnbYPhc-0)
