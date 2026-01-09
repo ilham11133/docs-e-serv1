@@ -15,7 +15,7 @@
 ![profile](./images/p1.png)
 
 ![admin](./images/d1.png)
-![admin](./images/d2.png)
+![admin](./images/d2'.png)
 ![admin](./images/d3.png)
 ![admin](./images/d4.png)
 ![admin](./images/d5.png)
